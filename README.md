@@ -1,2 +1,0 @@
-# phpauto
-PHP Automation Scripts
